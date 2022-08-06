@@ -7,5 +7,5 @@ Se incluyen:
 
 #Mapas
 
-**Corrientes con sus departarmantos y rutas **
-**Ruta mas rapida desde: Empedrado a Lavalle  **
+Corrientes con sus departarmantos y rutas
+Ruta mas rapida desde: Empedrado a Lavalle
