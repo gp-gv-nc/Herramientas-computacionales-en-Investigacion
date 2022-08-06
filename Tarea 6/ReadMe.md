@@ -5,7 +5,7 @@ Realizado por Luis Cerda y Gonzalo Rigirozzi.
 
 Se incluyen:
 
-::one:: **Mapas**
+:one: **Mapas**
 
 Corrientes con sus departarmantos y rutas.
 
@@ -13,4 +13,4 @@ Corrientes con sus departarmantos y rutas.
 Ruta mas rapida desde: Empedrado a Lavalle
 
 
-::two:: **Matriz OD**
+:two: **Matriz OD**
