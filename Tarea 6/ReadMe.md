@@ -5,7 +5,10 @@ Realizado por Luis Cerda y Gonzalo Rigirozzi.
 
 Se incluyen:
 
-:one: **Mapas**
+**Corrientes Georreferenciado**
+
+
+**Mapas**
 
 Corrientes con sus departarmantos y rutas.
 
