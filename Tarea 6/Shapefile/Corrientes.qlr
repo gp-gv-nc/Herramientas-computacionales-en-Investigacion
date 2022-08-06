@@ -1,0 +1,315 @@
+<!DOCTYPE qgis-layer-definition>
+<qlr>
+  <layer-tree-group name="" checked="Qt::Checked" expanded="1">
+    <customproperties>
+      <Option/>
+    </customproperties>
+    <layer-tree-layer legend_split_behavior="0" source="LineString?crs=OGC:CRS84&amp;field=start_id:string(254,0)&amp;field=start_coordinates:string(254,0)&amp;field=start_entry_cost:double(20,7)&amp;field=end_id:string(254,0)&amp;field=end_coordinates:string(254,0)&amp;field=end_exit_cost:double(20,7)&amp;field=cost_on_graph:double(20,7)&amp;field=total_cost:double(20,7)&amp;uid={1141529a-abc8-4fa2-aa08-97cb7a76d60a}" patch_size="-1,-1" id="Shortest_Path_Layer_3ccf566f_d8d2_462a_a193_9206d89f20e3" name="Shortest Path Layer" checked="Qt::Checked" providerKey="memory" legend_exp="" expanded="1">
+      <customproperties>
+        <Option/>
+      </customproperties>
+    </layer-tree-layer>
+  </layer-tree-group>
+  <maplayers>
+    <maplayer wkbType="LineString" minScale="100000000" symbologyReferenceScale="-1" refreshOnNotifyMessage="" maxScale="0" geometry="Line" type="vector" simplifyAlgorithm="0" autoRefreshTime="0" simplifyDrawingHints="1" styleCategories="AllStyleCategories" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" autoRefreshEnabled="0" simplifyLocal="1" simplifyDrawingTol="1" legendPlaceholderImage="" refreshOnNotifyEnabled="0" labelsEnabled="0" readOnly="0">
+      <extent>
+        <xmin>-59.17679199999999895</xmin>
+        <ymin>-29.02286300000000097</ymin>
+        <xmax>-58.36669158899997001</xmax>
+        <ymax>-27.83291053799996462</ymax>
+      </extent>
+      <wgs84extent>
+        <xmin>-59.17679199999999895</xmin>
+        <ymin>-29.02286300000000097</ymin>
+        <xmax>-58.36669158899997001</xmax>
+        <ymax>-27.83291053799996462</ymax>
+      </wgs84extent>
+      <id>Shortest_Path_Layer_3ccf566f_d8d2_462a_a193_9206d89f20e3</id>
+      <datasource>memory?geometry=LineString&amp;field=start_id:string(254,0)&amp;field=start_coordinates:string(254,0)&amp;field=start_entry_cost:double(20,7)&amp;field=end_id:string(254,0)&amp;field=end_coordinates:string(254,0)&amp;field=end_exit_cost:double(20,7)&amp;field=cost_on_graph:double(20,7)&amp;field=total_cost:double(20,7)</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Shortest Path Layer</layername>
+      <srs>
+        <spatialrefsys>
+          <wkt></wkt>
+          <proj4></proj4>
+          <srsid>0</srsid>
+          <srid>0</srid>
+          <authid></authid>
+          <description></description>
+          <projectionacronym></projectionacronym>
+          <ellipsoidacronym></ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <wkt></wkt>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="">memory</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <metadataUrls/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+        <Private>0</Private>
+      </flags>
+      <temporal startField="" fixedDuration="0" endExpression="" enabled="0" endField="" durationUnit="min" accumulate="0" durationField="" limitMode="0" mode="0" startExpression="">
+        <fixedRange>
+          <start></start>
+          <end></end>
+        </fixedRange>
+      </temporal>
+      <renderer-v2 forceraster="0" symbollevels="0" referencescale="-1" enableorderby="0" type="singleSymbol">
+        <symbols>
+          <symbol alpha="1" name="0" clip_to_extent="1" type="line" force_rhr="0">
+            <data_defined_properties>
+              <Option type="Map">
+                <Option name="name" value="" type="QString"/>
+                <Option name="properties"/>
+                <Option name="type" value="collection" type="QString"/>
+              </Option>
+            </data_defined_properties>
+            <layer enabled="1" locked="0" class="SimpleLine" pass="0">
+              <Option type="Map">
+                <Option name="align_dash_pattern" value="0" type="QString"/>
+                <Option name="capstyle" value="square" type="QString"/>
+                <Option name="customdash" value="5;2" type="QString"/>
+                <Option name="customdash_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="customdash_unit" value="MM" type="QString"/>
+                <Option name="dash_pattern_offset" value="0" type="QString"/>
+                <Option name="dash_pattern_offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="dash_pattern_offset_unit" value="MM" type="QString"/>
+                <Option name="draw_inside_polygon" value="0" type="QString"/>
+                <Option name="joinstyle" value="bevel" type="QString"/>
+                <Option name="line_color" value="57,54,229,255" type="QString"/>
+                <Option name="line_style" value="solid" type="QString"/>
+                <Option name="line_width" value="1.26" type="QString"/>
+                <Option name="line_width_unit" value="MM" type="QString"/>
+                <Option name="offset" value="0" type="QString"/>
+                <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="offset_unit" value="MM" type="QString"/>
+                <Option name="ring_filter" value="0" type="QString"/>
+                <Option name="trim_distance_end" value="0" type="QString"/>
+                <Option name="trim_distance_end_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="trim_distance_end_unit" value="MM" type="QString"/>
+                <Option name="trim_distance_start" value="0" type="QString"/>
+                <Option name="trim_distance_start_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+                <Option name="trim_distance_start_unit" value="MM" type="QString"/>
+                <Option name="tweak_dash_pattern_on_corners" value="0" type="QString"/>
+                <Option name="use_custom_dash" value="0" type="QString"/>
+                <Option name="width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+              </Option>
+              <prop v="0" k="align_dash_pattern"/>
+              <prop v="square" k="capstyle"/>
+              <prop v="5;2" k="customdash"/>
+              <prop v="3x:0,0,0,0,0,0" k="customdash_map_unit_scale"/>
+              <prop v="MM" k="customdash_unit"/>
+              <prop v="0" k="dash_pattern_offset"/>
+              <prop v="3x:0,0,0,0,0,0" k="dash_pattern_offset_map_unit_scale"/>
+              <prop v="MM" k="dash_pattern_offset_unit"/>
+              <prop v="0" k="draw_inside_polygon"/>
+              <prop v="bevel" k="joinstyle"/>
+              <prop v="57,54,229,255" k="line_color"/>
+              <prop v="solid" k="line_style"/>
+              <prop v="1.26" k="line_width"/>
+              <prop v="MM" k="line_width_unit"/>
+              <prop v="0" k="offset"/>
+              <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+              <prop v="MM" k="offset_unit"/>
+              <prop v="0" k="ring_filter"/>
+              <prop v="0" k="trim_distance_end"/>
+              <prop v="3x:0,0,0,0,0,0" k="trim_distance_end_map_unit_scale"/>
+              <prop v="MM" k="trim_distance_end_unit"/>
+              <prop v="0" k="trim_distance_start"/>
+              <prop v="3x:0,0,0,0,0,0" k="trim_distance_start_map_unit_scale"/>
+              <prop v="MM" k="trim_distance_start_unit"/>
+              <prop v="0" k="tweak_dash_pattern_on_corners"/>
+              <prop v="0" k="use_custom_dash"/>
+              <prop v="3x:0,0,0,0,0,0" k="width_map_unit_scale"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" value="" type="QString"/>
+                  <Option name="properties"/>
+                  <Option name="type" value="collection" type="QString"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties>
+        <Option type="Map">
+          <Option name="OnConvertFormatRegeneratePrimaryKey" value="false" type="bool"/>
+        </Option>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks type="StringList">
+          <Option value="" type="QString"/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <legend showLabelLegend="0" type="default-vector"/>
+      <referencedLayers/>
+      <fieldConfiguration>
+        <field configurationFlags="None" name="start_id">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="start_coordinates">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="start_entry_cost">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="end_id">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="end_coordinates">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="end_exit_cost">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="cost_on_graph">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field configurationFlags="None" name="total_cost">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias field="start_id" name="" index="0"/>
+        <alias field="start_coordinates" name="" index="1"/>
+        <alias field="start_entry_cost" name="" index="2"/>
+        <alias field="end_id" name="" index="3"/>
+        <alias field="end_coordinates" name="" index="4"/>
+        <alias field="end_exit_cost" name="" index="5"/>
+        <alias field="cost_on_graph" name="" index="6"/>
+        <alias field="total_cost" name="" index="7"/>
+      </aliases>
+      <defaults>
+        <default field="start_id" applyOnUpdate="0" expression=""/>
+        <default field="start_coordinates" applyOnUpdate="0" expression=""/>
+        <default field="start_entry_cost" applyOnUpdate="0" expression=""/>
+        <default field="end_id" applyOnUpdate="0" expression=""/>
+        <default field="end_coordinates" applyOnUpdate="0" expression=""/>
+        <default field="end_exit_cost" applyOnUpdate="0" expression=""/>
+        <default field="cost_on_graph" applyOnUpdate="0" expression=""/>
+        <default field="total_cost" applyOnUpdate="0" expression=""/>
+      </defaults>
+      <constraints>
+        <constraint unique_strength="0" field="start_id" notnull_strength="0" constraints="0" exp_strength="0"/>
+        <constraint unique_strength="0" field="start_coordinates" notnull_strength="0" constraints="0" exp_strength="0"/>
+        <constraint unique_strength="0" field="start_entry_cost" notnull_strength="0" constraints="0" exp_strength="0"/>
+        <constraint unique_strength="0" field="end_id" notnull_strength="0" constraints="0" exp_strength="0"/>
+        <constraint unique_strength="0" field="end_coordinates" notnull_strength="0" constraints="0" exp_strength="0"/>
+        <constraint unique_strength="0" field="end_exit_cost" notnull_strength="0" constraints="0" exp_strength="0"/>
+        <constraint unique_strength="0" field="cost_on_graph" notnull_strength="0" constraints="0" exp_strength="0"/>
+        <constraint unique_strength="0" field="total_cost" notnull_strength="0" constraints="0" exp_strength="0"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint desc="" field="start_id" exp=""/>
+        <constraint desc="" field="start_coordinates" exp=""/>
+        <constraint desc="" field="start_entry_cost" exp=""/>
+        <constraint desc="" field="end_id" exp=""/>
+        <constraint desc="" field="end_coordinates" exp=""/>
+        <constraint desc="" field="end_exit_cost" exp=""/>
+        <constraint desc="" field="cost_on_graph" exp=""/>
+        <constraint desc="" field="total_cost" exp=""/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <reuseLastValue/>
+      <dataDefinedFieldProperties/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+  </maplayers>
+</qlr>
