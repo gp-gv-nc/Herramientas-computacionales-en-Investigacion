@@ -3,7 +3,7 @@
 
 ## "The Slave Trade and the Origins of Mistrust in Africa" ##
 
-**Nathan Nunn and Leonard Wantchekon**
+### Nathan Nunn and Leonard Wantchekon ###
 
 
 Este repositorio contiene datos georeferenciados del paper.
