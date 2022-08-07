@@ -12,6 +12,8 @@ Se incluyen:
 
 ### Mapas ###
 
+Se incluye en formato .png:
+
 Corrientes con sus departarmantos y rutas.
 
 
