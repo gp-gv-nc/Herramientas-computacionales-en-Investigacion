@@ -1,7 +1,7 @@
 # Trabajo Final
 
 
-**"The Slave Trade and the Origins of Mistrust in Africa"
+**"The Slave Trade and the Origins of Mistrust in Africa"**
 
 Nathan Nunn and Leonard Wantchekon
 
