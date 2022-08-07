@@ -5,7 +5,7 @@ En esta carpeta se encuantran las consigas correspondientes a la Tarea 6 de la a
 
 ## Realizado por Luis Cerda y Gonzalo Rigirozzi
 
-### Se realiza con QGIS
+## Se realiza el trabajo con QGIS
 
 Se incluyen:
 
