@@ -11,3 +11,5 @@ TP:three::arrow_right: Stata,Python Scrapping + QGIS
 TP:four::arrow_right: Python + QGIS
 
 TP:five::arrow_right: R (ggplot & tmap) + Stata (spmap)
+
+TP:six::arrow_right: QGIS Georreference
