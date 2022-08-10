@@ -1,4 +1,4 @@
-# Trabajo Final para Herramientas computacionales para la Investigacion
+# Trabajo Final para Herramientas computacionales
 
 
 ## "The Slave Trade and the Origins of Mistrust in Africa" by Nathan Nunn and Leonard Wantchekon ##
