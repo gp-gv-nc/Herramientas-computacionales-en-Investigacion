@@ -1,9 +1,8 @@
 # Trabajo Práctico 6
 
-En esta carpeta se encuentran las consigas correspondientes a la Tarea 6 de la asignatura de Herramientas Computacionales.
-
-
 **Este trabajo fue realizado por Luis Cerda y Gonzalo Rigirozzi**
+
+En esta carpeta se encuentran las consigas correspondientes a la Tarea 6 de la asignatura de Herramientas Computacionales.
 
 ## Esta carpeta contiene:
 
