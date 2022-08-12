@@ -3,9 +3,9 @@
 En esta carpeta se encuentran las consigas correspondientes a la Tarea 6 de la asignatura de Herramientas Computacionales.
 
 
-## Este trabajo fue realizado por Luis Cerda y Gonzalo Rigirozzi
+##Este trabajo fue realizado por Luis Cerda y Gonzalo Rigirozzi
 
-###Se incluye:###
+##Se incluye:##
 
 En esta carpeta se puede encontrar el mapa georreferenciado en QGIS de la Provincia Argentina de Corrientes
 
