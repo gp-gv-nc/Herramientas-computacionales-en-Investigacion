@@ -18,4 +18,5 @@ Mapa georreferenciado en QGIS de la Provincia Argentina de Corrientes.
 * Cálculo de la ruta más rápida entre la ciudad de Empedrado a la ciudad de Lavalle, en la Provincia de Corrientes.
 
 
-**Matriz de origen-destino (OD Matri)**:  matriz utilizada para el cálculo de rutas, incluyendo el de ruta más rápida.
+**Matriz de origen-destino (OD Matrix)**
+* Matriz utilizada para el cálculo de rutas, incluyendo el de ruta más rápida del inciso anterior.
