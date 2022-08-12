@@ -9,17 +9,16 @@ En esta carpeta se encuentran las consigas correspondientes a la Tarea 6 de la a
 
 Se incluyen:
 
-**Corrientes Georreferenciado**
+**Mapa georreferenciado de la Provincia Argentina de Corrientes **
 
 
 ### Mapas ###
 
-Se incluye en formato .png:
+* Se incluye en formato .png:
 
-Corrientes con sus departarmantos y rutas.
+* Provincia de Corrientes con sus departamentos y rutas.
 
-
-Ruta mas rapida desde: Empedrado a Lavalle
+* Ruta mas rapida desde: Empedrado a Lavalle
 
 
 **Matriz OD**
