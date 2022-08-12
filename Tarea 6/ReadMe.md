@@ -6,7 +6,7 @@ En esta carpeta se encuentran las consigas correspondientes a la Tarea 6 de la a
 
 ## Esta carpeta contiene:
 
-Mapa georreferenciado en QGIS de la Provincia Argentina de Corrientes.
+Archivos de trabajo necesarios para generar mapa georreferenciado en QGIS de la Provincia Argentina de Corrientes.
 
 ## Mapas incluidos
 
