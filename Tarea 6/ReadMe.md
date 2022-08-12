@@ -1,18 +1,15 @@
 # Trabajo Práctico 6
 
-En esta carpeta se encuentran las consigas correspondientes a la Tarea 6 de la asignatura.
+En esta carpeta se encuentran las consigas correspondientes a la Tarea 6 de la asignatura de Herramientas Computacionales.
 
 
-## Realizado por Luis Cerda y Gonzalo Rigirozzi
+## Este trabajo fue realizado por Luis Cerda y Gonzalo Rigirozzi
 
-## Se realiza el trabajo con QGIS
+## Se incluye:
 
-Se incluyen:
+Esta carpeta se puede encintrar el mapa georreferenciado en QGIS de la Provincia Argentina de Corrientes
 
-**Mapa georreferenciado de la Provincia Argentina de Corrientes **
-
-
-### Mapas ###
+### Mapas incluidos ###
 
 * Se incluye en formato .png:
 
