@@ -1,1 +1,1 @@
-Se adjuntan los Shapefile que se realizo la tarea.
+En esta carpeta se incluyen los Shapefile utilizados para realizar la georreferenciación de la Provincia Argentina de Corrientes.
