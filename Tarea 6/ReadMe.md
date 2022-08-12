@@ -3,19 +3,19 @@
 En esta carpeta se encuentran las consigas correspondientes a la Tarea 6 de la asignatura de Herramientas Computacionales.
 
 
-##Este trabajo fue realizado por Luis Cerda y Gonzalo Rigirozzi
+**Este trabajo fue realizado por Luis Cerda y Gonzalo Rigirozzi**
 
-##Se incluye:##
+## Esta carpeta contiene:
 
-En esta carpeta se puede encontrar el mapa georreferenciado en QGIS de la Provincia Argentina de Corrientes
+Mapa georreferenciado en QGIS de la Provincia Argentina de Corrientes.
 
-### Mapas incluidos ###
+## Mapas incluidos
 
-* Se incluye en formato .png:
+**Se incluye en formato .png:**
 
-* Provincia de Corrientes con sus departamentos y rutas.
+* Mapa de la Provincia de Corrientes con sus departamentos y rutas.
 
-* Ruta mas rapida desde: Empedrado a Lavalle
+* Cálculo de la ruta más rápida entre la ciudad de Empedrado a la ciudad de Lavalle, en la Provincia de Corrientes.
 
 
-**Matriz OD**
+**Matriz de origen-destino (OD Matri)**:  matriz utilizada para el cálculo de rutas, incluyendo el de ruta más rápida.
